@@ -1,0 +1,17 @@
+{
+  "name": "captcha-bot",
+  "version": "1.0.0",
+  "description": "A simple single server captcha bot :)",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node src/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
+    "jimp": "^0.10.0"
+  }
+}
